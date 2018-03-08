@@ -3,6 +3,7 @@
     "description": "a PasswordHash implementation.",
     "keywords": ["PasswordHash", "composer", "package"],
     "license": "MIT",
+    "homepage": "https://github.com/lerislentia/password-hash",
     "authors": [
         {
             "name": "marco benvenuto",
