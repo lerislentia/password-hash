@@ -21,5 +21,8 @@
         "psr-4": {
             "Lerislentia\\": "src/Lerislentia/"
         }
-    }
+    },
+    
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
